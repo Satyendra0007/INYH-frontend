@@ -80,8 +80,8 @@ export default function Home() {
           <div className="swiper multiple-slide-carousel swiper-container overflow-auto ">
             <div className="swiper-wrapper flex gap-5  mb-16 ">
               <div className="swiper-slide">
-                <div className="bg-red-700 rounded-2xl p-2 h-52 w-[25rem] flex justify-between items-center">
-                  <div className="content w-1/2 h-full flex justify-center items-center flex-col gap-5">
+                <div className="bg-red-700 rounded-2xl  h-52 w-[25rem] flex justify-between items-center">
+                  <div className="content w-1/2 h-full p-2 flex justify-center items-center flex-col gap-5">
                     <div className="text-xl font-semibold text-white text-center ">Shine your Bathroom deserve </div>
                     <button className='outline-none text-white py-2 px-4 font-semibold bg-white/10 rounded-md' >Book Now</button>
                   </div>
@@ -91,8 +91,8 @@ export default function Home() {
                 </div>
               </div>
               <div className="swiper-slide">
-                <div className="bg-green-700 rounded-2xl p-2 h-52 w-[25rem] flex justify-between items-center">
-                  <div className="content w-1/2 h-full flex justify-center items-center flex-col gap-5">
+                <div className="bg-green-700 rounded-2xl  h-52 w-[25rem] flex justify-between items-center">
+                  <div className="content w-1/2 h-full flex p-2 justify-center items-center flex-col gap-5">
                     <div className="text-2xl font-semibold text-white text-center ">Shine your Bathroom deserve </div>
                     <button className='outline-none text-white py-2 px-4 font-semibold bg-white/10 rounded-md' >Book Now</button>
                   </div>
@@ -102,8 +102,8 @@ export default function Home() {
                 </div>
               </div>
               <div className="swiper-slide">
-                <div className="bg-rose-700 rounded-2xl p-2 h-52 w-[25rem] flex justify-between items-center">
-                  <div className="content w-1/2 h-full flex justify-center items-center flex-col gap-5">
+                <div className="bg-rose-700 rounded-2xl h-52 w-[25rem] flex justify-between items-center">
+                  <div className="content w-1/2 h-full flex p-2 justify-center items-center flex-col gap-5">
                     <div className="text-2xl font-semibold text-white text-center ">Shine your Bathroom deserve </div>
                     <button className='outline-none text-white py-2 px-4 font-semibold bg-white/10 rounded-md' >Book Now</button>
                   </div>
@@ -113,8 +113,8 @@ export default function Home() {
                 </div>
               </div>
               <div className="swiper-slide">
-                <div className="bg-orange-700 rounded-2xl p-2 h-52 w-[25rem] flex justify-between items-center">
-                  <div className="content w-1/2 h-full flex justify-center items-center flex-col gap-5">
+                <div className="bg-orange-700 rounded-2xl  h-52 w-[25rem] flex justify-between items-center">
+                  <div className="content w-1/2 h-full flex p-2 justify-center items-center flex-col gap-5">
                     <div className="text-2xl font-semibold text-white text-center ">Shine your Bathroom deserve </div>
                     <button className='outline-none text-white py-2 px-4 font-semibold bg-white/10 rounded-md' >Book Now</button>
                   </div>
@@ -124,8 +124,8 @@ export default function Home() {
                 </div>
               </div>
               <div className="swiper-slide">
-                <div className="bg-indigo-700 rounded-2xl p-2 h-52 w-[25rem] flex justify-between items-center">
-                  <div className="content w-1/2 h-full flex justify-center items-center flex-col gap-5">
+                <div className="bg-indigo-700 rounded-2xl h-52 w-[25rem] flex justify-between items-center">
+                  <div className="content w-1/2 h-full flex p-2 justify-center items-center flex-col gap-5">
                     <div className="text-2xl font-semibold text-white text-center ">Shine your Bathroom deserve </div>
                     <button className='outline-none text-white py-2 px-4 font-semibold bg-white/10 rounded-md' >Book Now</button>
                   </div>
